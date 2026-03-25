@@ -1,0 +1,2 @@
+rootProject.name = "Jslearn"
+include ':app'
